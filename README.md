@@ -1,0 +1,2 @@
+# Nikorico
+Mi github personal
